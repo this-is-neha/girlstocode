@@ -1,15 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
-import App from './hw';
+// import App from './hw';
+import NameInputBox from './hw2'
 
 // import ClassParent from './class'; 
 // import Main from './Main';
-function Appp() {
+function App() {
   return (
-    <div className="container">
+    <div>
       {/* <Main/> */}
       
-     <App/>
+     <NameInputBox/>
 
     </div>
   );
